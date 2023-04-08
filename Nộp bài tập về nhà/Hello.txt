@@ -1,5 +1,0 @@
-Clone repository này về máy
-Kéo file BTVN của nhóm bạn vào folder "Nộp bài tập về nhà"
-git status
-git add .
-Quay lại web GitHub để tạo pull request
